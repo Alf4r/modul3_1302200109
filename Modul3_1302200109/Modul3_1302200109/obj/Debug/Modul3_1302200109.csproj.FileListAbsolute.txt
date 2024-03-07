@@ -1,0 +1,10 @@
+D:\Modul3_13002200109\Modul3_1302200109\Modul3_1302200109\bin\Debug\Modul3_1302200109.exe.config
+D:\Modul3_13002200109\Modul3_1302200109\Modul3_1302200109\bin\Debug\Modul3_1302200109.exe
+D:\Modul3_13002200109\Modul3_1302200109\Modul3_1302200109\bin\Debug\Modul3_1302200109.pdb
+D:\Modul3_13002200109\Modul3_1302200109\Modul3_1302200109\obj\Debug\Modul3_1302200109.csproj.AssemblyReference.cache
+D:\Modul3_13002200109\Modul3_1302200109\Modul3_1302200109\obj\Debug\Modul3_1302200109.Form1.resources
+D:\Modul3_13002200109\Modul3_1302200109\Modul3_1302200109\obj\Debug\Modul3_1302200109.Properties.Resources.resources
+D:\Modul3_13002200109\Modul3_1302200109\Modul3_1302200109\obj\Debug\Modul3_1302200109.csproj.GenerateResource.cache
+D:\Modul3_13002200109\Modul3_1302200109\Modul3_1302200109\obj\Debug\Modul3_1302200109.csproj.CoreCompileInputs.cache
+D:\Modul3_13002200109\Modul3_1302200109\Modul3_1302200109\obj\Debug\Modul3_1302200109.exe
+D:\Modul3_13002200109\Modul3_1302200109\Modul3_1302200109\obj\Debug\Modul3_1302200109.pdb
